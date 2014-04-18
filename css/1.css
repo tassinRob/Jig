@@ -1,0 +1,67 @@
+body {
+	background-color: rgb(10,255,243);
+	font-family: monospace;
+}
+
+h1 {
+	margin: auto;
+	text-align: center;
+	font-size: 65px;
+	padding-top: 10px;
+}
+
+a {
+	text-decoration: none;
+	/*color: rgb(82,76,4);*/
+	color:blue;
+}
+
+table {
+	border-color: rgb(82,76,4);
+	margin: auto;
+	padding: 0;
+	margin-top: 60px; 
+}
+th {
+	padding: 35px;
+	font-size: 45px;
+}
+
+center {
+	padding-top: 10px; 
+}
+p {
+	font-size: 20px;
+}
+.a {
+	float: right;
+	padding-top: 10px;
+	padding-right: 160px;
+}
+.b {
+	float: left;
+	padding-top: 10px;
+	padding-left: 100px;
+}
+.c {
+	float: right;
+	padding-top: 40px;
+}
+.d {
+	float: left;
+	padding-top: 40px;
+}
+.e {
+	float: right;
+	padding-top: 75px;
+}
+.f {
+	float: left;
+	padding-top: 75px;
+}
+.g {
+	float: right;
+}
+.h {
+	float: left;
+}
